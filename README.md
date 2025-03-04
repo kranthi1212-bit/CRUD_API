@@ -3,7 +3,7 @@ Open the project in Visual Studio.
 Build the solution (Ctrl + Shift + B).
 Run the project (F5).
 
-The API will be available at http://localhost:port/ (Check Visual Studio IIS Express settings for the correct port).
+The API will be available at https://localhost:44361/ (Check Visual Studio IIS Express settings for the correct port).
 Postman Collection
 1. Import Collection
 Open Postman
